@@ -1,0 +1,13 @@
+streamlit
+transformers
+torch
+scikit-learn
+pandas
+numpy
+matplotlib
+plotly
+nltk
+tqdm
+sentencepiece
+protobuf
+requests

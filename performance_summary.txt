@@ -1,0 +1,27 @@
+
+======================================================================
+FINAL PERFORMANCE SUMMARY
+======================================================================
+
+📊 Dataset Statistics:
+  Total samples: 5786
+  Training: 4050 | Validation: 868 | Test: 868
+
+🎯 Model Performance:
+  Test Accuracy: 87.56%
+  Test F1-Score: 0.8761
+  Test Precision: 0.8779
+  Test Recall: 0.8756
+
+📈 Training Details:
+  Epochs: 5
+  Learning Rate: 2e-05
+  Batch Size: 16
+  LR Scheduler: SchedulerType.COSINE
+
+💾 Model Location:
+  Saved to: ./enhanced_finbert_model/
+
+✅ Performance Check:
+  🎉 SUCCESS! Test accuracy 87.56% >= Target 86%
+
