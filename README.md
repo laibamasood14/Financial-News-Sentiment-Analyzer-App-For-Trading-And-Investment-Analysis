@@ -12,8 +12,8 @@ categories.
 
 ### 1. Dataset
 
--   **Source:** Financial PhraseBank\
--   **Size:** 4,840+ expert-annotated sentences\
+-   **Source:** Financial PhraseBank from Hugging Face
+-   **Size:** 4,840+ expert-annotated sentences
 -   **Classes:** Positive, Negative, Neutral
 
 ### 2. Approach
