@@ -90,4 +90,4 @@ terminology.
 
 ------------------------------------------------------------------------
 
-### ❤️ *Made with love for finance, stock market, trading and investment.*
+### *Made with ❤️ for finance, stock market, trading and investment.*
