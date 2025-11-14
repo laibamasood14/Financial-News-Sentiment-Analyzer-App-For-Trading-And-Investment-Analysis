@@ -30,7 +30,7 @@ import requests
 
 @st.cache_data(ttl=3600)
 def fetch_latest_financial_news(limit=10):
-    API_KEY = "API_KEY"
+    API_KEY = "NewsData_API_Key"
     url = f"https://newsdata.io/api/1/news?apikey={API_KEY}&q=stocks%20OR%20finance%20OR%20markets&language=en&category=business"
 
     response = requests.get(url)
