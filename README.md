@@ -22,9 +22,9 @@ We implemented and compared two major modeling strategies:
 
 #### Traditional ML Models (TF-IDF based):
 
--   Logistic Regression\
--   Naive Bayes\
--   Support Vector Machine (SVM)\
+-   Logistic Regression
+-   Naive Bayes
+-   Support Vector Machine (SVM)
 -   Random Forest
 
 #### Transformer-based Model:
@@ -34,9 +34,9 @@ We implemented and compared two major modeling strategies:
 
 ### 3. Preprocessing Pipeline
 
--   Text cleaning and normalization\
--   Tokenization\
--   Stopword removal (financial terms preserved)\
+-   Text cleaning and normalization
+-   Tokenization
+-   Stopword removal (financial terms preserved)
 -   Lemmatization
 
 ## 📊 Results
@@ -46,46 +46,46 @@ performance:
 
   Metric                    Score
   ------------------------- ---------
-  **Validation Accuracy**   \~89.8%
-  **Testing Accuracy**      \~87.6%
-  **F1-Score**              \~0.89
+  **Validation Accuracy**   ~89.8%
+  **Testing Accuracy**      ~87.6%
+  **F1-Score**              ~0.89
 
 FinBERT also demonstrated superior handling of specialized financial
 terminology.
 
 ## 🛠️ Technical Stack
 
--   **Frontend Framework:** Streamlit\
--   **ML Libraries:** Transformers, PyTorch, Scikit-learn\
--   **Visualization:** Plotly, Matplotlib\
+-   **Frontend Framework:** Streamlit
+-   **ML Libraries:** Transformers, PyTorch, Scikit-learn
+-   **Visualization:** Plotly, Matplotlib
 -   **NLP Tools:** NLTK, Hugging Face
 
 ## 💡 Applications
 
--   **Investment Analysis:** Enhance trading decisions\
--   **Risk Management:** Detect negative trends early\
--   **Market Research:** Automated sentiment monitoring\
+-   **Investment Analysis:** Enhance trading decisions
+-   **Risk Management:** Detect negative trends early
+-   **Market Research:** Automated sentiment monitoring
 -   **Portfolio Management:** Sentiment-driven asset strategies
 
 ## 🎓 Academic Context
 
--   Course: CT-485 -- Natural Language Processing\
--   Institution: NED University of Engineering & Technology\
+-   Course: CT-485 -- Natural Language Processing
+-   Institution: NED University of Engineering & Technology
 -   Department: Computer Science & Information Technology
 
 ## 📚 References
 
 -   Araci, D. (2019). *FinBERT: Financial Sentiment Analysis with
-    Pre-trained Language Models*\
+    Pre-trained Language Models*
 -   Malo, P., et al. (2014). *Good Debt or Bad Debt: Detecting Semantic
-    Orientations in Economic Texts*\
+    Orientations in Economic Texts*
 -   Devlin, J., et al. (2019). *BERT: Pre-training of Deep Bidirectional
     Transformers*
 
 ## 🔗 Resources
 
--   Financial PhraseBank Dataset\
--   FinBERT Model\
+-   Financial PhraseBank Dataset
+-   FinBERT Model
 -   Project Repository
 
 ------------------------------------------------------------------------
